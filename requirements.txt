@@ -1,0 +1,15 @@
+# Used by pip to install required python packages
+# Usage: pip install -r requirements.txt
+
+numpy
+nltk
+random
+json
+torch
+torch.nn
+torch.utils.data
+tkinter
+matplotlib.pyplot
+seaborn
+pandas
+collections
