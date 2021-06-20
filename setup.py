@@ -1,22 +1,15 @@
 from setuptools import setup
 
-# reading long description from file
 with open('Description.txt') as file:
     long_description = file.read()
 
 with open('requirements.txt') as f:
     requirements = f.readlines()
-#
-#
-# # specify requirements of your package here
-# REQUIREMENTS = ['requests']
 
-# some more details
 CLASSIFIERS = [
      'Programming Language :: Python :: 3.8',
     ]
 
-# calling the setup function
 setup(name='pythonProject',
       version='1.0',
       description='A first-contact virtual assistant answering club/fitness center related questions',
