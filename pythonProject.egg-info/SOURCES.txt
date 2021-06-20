@@ -1,0 +1,10 @@
+setup.py
+charlie/__init__.py
+charlie/datatraining.py
+charlie/model.py
+charlie/nlp.py
+pythonProject.egg-info/PKG-INFO
+pythonProject.egg-info/SOURCES.txt
+pythonProject.egg-info/dependency_links.txt
+pythonProject.egg-info/requires.txt
+pythonProject.egg-info/top_level.txt

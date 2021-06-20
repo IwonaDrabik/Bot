@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: pythonProject
+Version: 1.0
+Summary: A first-contact virtual assistant answering club/fitness center related questions
+Home-page: https://github.com/IwonaDrabik/pythonProject4
+Author: Iwona Drabik
+Author-email: drabik.iwona@gmail.com
+License: MIT
+Description: TBD
+Keywords: NLP,torch,neural network,tkinter
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.8
