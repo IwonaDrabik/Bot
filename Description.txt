@@ -1,1 +1,1 @@
-TBD
+Charlie the Chatbot is a first-contact client consultant answering fitness- and gym-related questions. For the sake of training and defining the bot, PyTorch and Deep Learning algorithms have been applied. The dataset is a collection of intents, i.e. potential queries, and response patterns. The algorithm aims at creating a bag of words and building a convolutional neural network. At the end the bot is translated it into a visual interface with the help of the Python Tk module.
