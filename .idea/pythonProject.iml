@@ -4,5 +4,11 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="PyCharmLearningProject" />
+    <orderEntry type="module" module-name="TestMain" />
+    <orderEntry type="module" module-name="unit_testing" />
+  </component>
+  <component name="PackageRequirementsSettings">
+    <option name="requirementsPath" value="C:\Users\56idr\Documents\05_2021\01_05\Charlie (1).py" />
   </component>
 </module>

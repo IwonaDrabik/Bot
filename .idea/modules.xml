@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$APPLICATION_CONFIG_DIR$/demo/PyCharmLearningProject/.idea/PyCharmLearningProject.iml" filepath="$APPLICATION_CONFIG_DIR$/demo/PyCharmLearningProject/.idea/PyCharmLearningProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TestMain/.idea/TestMain.iml" filepath="$PROJECT_DIR$/../TestMain/.idea/TestMain.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/pythonProject.iml" filepath="$PROJECT_DIR$/.idea/pythonProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../unit_testing/.idea/unit_testing.iml" filepath="$PROJECT_DIR$/../unit_testing/.idea/unit_testing.iml" />
     </modules>
   </component>
 </project>

@@ -1,15 +1,15 @@
 # Used by pip to install required python packages
 # Usage: pip install -r requirements.txt
+# torch.utils.data
+# torch.nn
+# json
+# random
 
 numpy
 nltk
-random
-json
 torch
-torch.nn
-torch.utils.data
-tkinter
-matplotlib.pyplot
+torch
+tk
+matplotlib
 seaborn
 pandas
-collections
